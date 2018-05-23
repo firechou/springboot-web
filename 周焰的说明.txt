@@ -1,0 +1,3 @@
+1.一个简单的spring boot web项目，thymeleaf模板，热部署
+2.启动类为：ApplicationStarter
+3.可通过http://localhost:8888/test-web/index访问首页模板/springbot-web/src/main/resources/templates/index.html

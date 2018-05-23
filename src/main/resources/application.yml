@@ -1,0 +1,11 @@
+server:
+  context-path: /test-web
+  port: 8888
+  session:
+    timeout: 30
+  tomcat:
+    uri-encoding: utf-8
+
+#自定义首页欢迎语
+#如果在properties中使用中文，通过${xxx}获取会乱码
+page-index-welcome: 欢迎来到首页----2！
